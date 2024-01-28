@@ -1,0 +1,60 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #f4e1e1;
+  }
+  
+  .menu-buttons {
+    margin-bottom: 0px;
+    margin-top: 40px;
+  }
+  
+  .menu-buttons button {
+    margin-right: 40px;
+    padding: 8px 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  }
+  
+  .menu-buttons button:hover {
+    background-color: #e0e0e0;
+    color: #000;
+    border-color: #999;
+  }
+  
+  .list-restaurants-btn {
+    position: absolute;
+    top: 80px;
+    right: 20px;
+    padding: 8px 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  }
+  
+  .list-restaurants-btn:hover {
+    background-color: #e0e0e0;
+    color: #000;
+    border-color: #999;
+  }
+  
+  .menu-item {
+    margin-bottom: 20px; 
+    margin-top: 80px;
+  }
+  
+  /*.menu-page h1,
+  .menu-page h3 {
+    font-family: 'Inria Serif', serif;
+  }*/
+  

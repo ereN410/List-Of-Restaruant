@@ -1,0 +1,13 @@
+.logo {
+    display: block;
+    margin: 10px;
+    position: absolute; 
+    top: 15px; 
+    right: 5px;
+  }
+  
+  .logo img {
+    width: 100px;
+    height: auto;
+  }
+  
